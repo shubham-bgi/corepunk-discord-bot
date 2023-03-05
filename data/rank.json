@@ -1,0 +1,22 @@
+[
+    {
+        "rankRange": "1-100",
+        "rarity": "Legendary"
+    },
+    {
+        "rankRange": "101-500",
+        "rarity": "Mythic"
+    },
+    {
+        "rankRange": "501-3000",
+        "rarity": "Rare"
+    },
+    {
+        "rankRange": "3001-7000",
+        "rarity": "Uncommon"
+    },
+    {
+        "rankRange": "7001-10000",
+        "rarity": "Common"
+    }
+]
